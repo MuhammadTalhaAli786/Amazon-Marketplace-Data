@@ -2,7 +2,7 @@
 You will analyze Amazon marketplace data for one of our product lines, clean and integrate three CSV files, perform exploratory analysis, build a Power BI dashboard, and recommend ways to cut ad spend without hurting rank. All work must be completed within three hours.
 ________________________________________
 1. Data Cleaning & Integration
- • Open the three CSVs in Google Sheets or Excel.
+ • Open the three CSVs in Google Sheets or Excel. ad_spend_daily.xlxs, keywords_ranking.xlxs, sales_traffic_child_asin.xlxs
  • Fix header typos, convert all dates to MM/DD/YYYY, and standardize every currency value to USD.
  • Remove or flag nulls and duplicates, documenting each action.
  • Perform an outer join on ASIN + Date.
